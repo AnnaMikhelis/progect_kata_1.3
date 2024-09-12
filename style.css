@@ -3,7 +3,7 @@ body {
     background-color: #F8F8F8;
 }
 
-@font-face {
+/* @font-face {
     font-family: 'TT Lakes';
     src: url('TTLakes-Italic.eot');
     src: local('TT Lakes Italic'), local('TTLakes-Italic'),
@@ -595,7 +595,7 @@ body {
         url('fonts/TTLakesCompressed-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
-}
+} */
 
 main {
     max-width: 1120px;
