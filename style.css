@@ -597,7 +597,11 @@ body {
     font-style: normal;
 }
 
-
+main {
+    max-width: 1120px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 .header {
     display: flex;
@@ -611,6 +615,7 @@ body {
 
 .header__icon {
     margin-right: 16px;
+    vertical-align: middle;
 }
 
 .header__icon:last-child{
@@ -627,7 +632,6 @@ body {
 }
 
 .title__block {
-
     display: flex;
 
 }
@@ -684,7 +688,13 @@ h1 {
     border: none;
     background-color: #F8F8F8;
     color: #7E7E82;
+    
 
+}
+
+.menu__link:hover {
+    cursor: pointer;
+    opacity: 80%;
 }
 
 .menu__link--active {
