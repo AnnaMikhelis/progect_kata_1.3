@@ -5,7 +5,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Italic.eot');
+    src: url('fonts\TTLakes-Italic.eot');
     src: local('TT Lakes Italic'), local('TTLakes-Italic'),
         url('fonts\TTLakes-Italic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Italic.woff') format('woff'),
@@ -16,7 +16,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-ExtraLight.eot');
+    src: url('fonts\TTLakesCondensed-ExtraLight.eot');
     src: local('TT Lakes Condensed ExtraLight'), local('TTLakesCondensed-ExtraLight'),
         url('fonts\TTLakesCondensed-ExtraLight.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-ExtraLight.woff') format('woff'),
@@ -27,7 +27,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Regular.eot');
+    src: url('fonts\TTLakesCompressed-Regular.eot');
     src: local('TT Lakes Compressed Regular'), local('TTLakesCompressed-Regular'),
         url('fonts\TTLakesCompressed-Regular.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Regular.woff') format('woff'),
@@ -38,7 +38,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-ThinItalic.eot');
+    src: url('fonts\TTLakesCompressed-ThinItalic.eot');
     src: local('TT Lakes Compressed Thin Italic'), local('TTLakesCompressed-ThinItalic'),
         url('fonts\TTLakesCompressed-ThinItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-ThinItalic.woff') format('woff'),
@@ -49,7 +49,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Medium.eot');
+    src: url('fonts\TTLakesCondensed-Medium.eot');
     src: local('TT Lakes Condensed Medium'), local('TTLakesCondensed-Medium'),
         url('fonts\TTLakesCondensed-Medium.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Medium.woff') format('woff'),
@@ -60,7 +60,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-ExtraBoldItalic.eot');
+    src: url('fonts\TTLakesCompressed-ExtraBoldItalic.eot');
     src: local('TT Lakes Compressed ExtraBold Italic'), local('TTLakesCompressed-ExtraBoldItalic'),
         url('fonts\TTLakesCompressed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-ExtraBoldItalic.woff') format('woff'),
@@ -71,7 +71,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-ExtraLightItalic.eot');
+    src: url('fonts\TTLakes-ExtraLightItalic.eot');
     src: local('TT Lakes ExtraLight Italic'), local('TTLakes-ExtraLightItalic'),
         url('fonts\TTLakes-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-ExtraLightItalic.woff') format('woff'),
@@ -82,7 +82,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-LightItalic.eot');
+    src: url('fonts\TTLakes-LightItalic.eot');
     src: local('TT Lakes Light Italic'), local('TTLakes-LightItalic'),
         url('fonts\TTLakes-LightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-LightItalic.woff') format('woff'),
@@ -93,7 +93,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Thin.eot');
+    src: url('fonts\TTLakes-Thin.eot');
     src: local('TT Lakes Thin'), local('TTLakes-Thin'),
         url('fonts\TTLakes-Thin.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Thin.woff') format('woff'),
@@ -104,7 +104,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-DemiBoldItalic.eot');
+    src: url('fonts\TTLakes-DemiBoldItalic.eot');
     src: local('TT Lakes DemiBold Italic'), local('TTLakes-DemiBoldItalic'),
         url('fonts\TTLakes-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-DemiBoldItalic.woff') format('woff'),
@@ -115,7 +115,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Black.eot');
+    src: url('fonts\TTLakesCondensed-Black.eot');
     src: local('TT Lakes Condensed Black'), local('TTLakesCondensed-Black'),
         url('fonts\TTLakesCondensed-Black.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Black.woff') format('woff'),
@@ -126,7 +126,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-LightItalic.eot');
+    src: url('fonts\TTLakesCondensed-LightItalic.eot');
     src: local('TT Lakes Condensed Light Italic'), local('TTLakesCondensed-LightItalic'),
         url('fonts\TTLakesCondensed-LightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-LightItalic.woff') format('woff'),
@@ -137,7 +137,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-DemiBold.eot');
+    src: url('fonts\TTLakesCondensed-DemiBold.eot');
     src: local('TT Lakes Condensed DemiBold'), local('TTLakesCondensed-DemiBold'),
         url('fonts\TTLakesCondensed-DemiBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-DemiBold.woff') format('woff'),
@@ -148,7 +148,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-ExtraBold.eot');
+    src: url('fonts\TTLakesCompressed-ExtraBold.eot');
     src: local('TT Lakes Compressed ExtraBold'), local('TTLakesCompressed-ExtraBold'),
         url('fonts\TTLakesCompressed-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-ExtraBold.woff') format('woff'),
@@ -159,7 +159,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-ExtraBoldItalic.eot');
+    src: url('fonts\TTLakes-ExtraBoldItalic.eot');
     src: local('TT Lakes ExtraBold Italic'), local('TTLakes-ExtraBoldItalic'),
         url('fonts\TTLakes-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-ExtraBoldItalic.woff') format('woff'),
@@ -170,7 +170,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-ExtraLight.eot');
+    src: url('fonts\TTLakes-ExtraLight.eot');
     src: local('TT Lakes ExtraLight'), local('TTLakes-ExtraLight'),
         url('fonts\TTLakes-ExtraLight.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-ExtraLight.woff') format('woff'),
@@ -181,7 +181,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Bold.eot');
+    src: url('fonts\TTLakesCondensed-Bold.eot');
     src: local('TT Lakes Condensed Bold'), local('TTLakesCondensed-Bold'),
         url('fonts\TTLakesCondensed-Bold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Bold.woff') format('woff'),
@@ -192,7 +192,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-ThinItalic.eot');
+    src: url('fonts\TTLakesCondensed-ThinItalic.eot');
     src: local('TT Lakes Condensed Thin Italic'), local('TTLakesCondensed-ThinItalic'),
         url('fonts\TTLakesCondensed-ThinItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-ThinItalic.woff') format('woff'),
@@ -203,7 +203,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-ExtraBoldItalic.eot');
+    src: url('fonts\TTLakesCondensed-ExtraBoldItalic.eot');
     src: local('TT Lakes Condensed ExtraBold Italic'), local('TTLakesCondensed-ExtraBoldItalic'),
         url('fonts\TTLakesCondensed-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-ExtraBoldItalic.woff') format('woff'),
@@ -214,7 +214,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Medium.eot');
+    src: url('fonts\TTLakesCompressed-Medium.eot');
     src: local('TT Lakes Compressed Medium'), local('TTLakesCompressed-Medium'),
         url('fonts\TTLakesCompressed-Medium.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Medium.woff') format('woff'),
@@ -225,7 +225,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Thin.eot');
+    src: url('fonts\TTLakesCondensed-Thin.eot');
     src: local('TT Lakes Condensed Thin'), local('TTLakesCondensed-Thin'),
         url('fonts\TTLakesCondensed-Thin.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Thin.woff') format('woff'),
@@ -236,7 +236,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Italic.eot');
+    src: url('fonts\TTLakesCompressed-Italic.eot');
     src: local('TT Lakes Compressed Italic'), local('TTLakesCompressed-Italic'),
         url('fonts\TTLakesCompressed-Italic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Italic.woff') format('woff'),
@@ -247,7 +247,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Light.eot');
+    src: url('fonts\TTLakesCompressed-Light.eot');
     src: local('TT Lakes Compressed Light'), local('TTLakesCompressed-Light'),
         url('fonts\TTLakesCompressed-Light.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Light.woff') format('woff'),
@@ -258,7 +258,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-LightItalic.eot');
+    src: url('fonts\TTLakesCompressed-LightItalic.eot');
     src: local('TT Lakes Compressed Light Italic'), local('TTLakesCompressed-LightItalic'),
         url('fonts\TTLakesCompressed-LightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-LightItalic.woff') format('woff'),
@@ -269,7 +269,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Regular.eot');
+    src: url('fonts\TTLakesCondensed-Regular.eot');
     src: local('TT Lakes Condensed Regular'), local('TTLakesCondensed-Regular'),
         url('fonts\TTLakesCondensed-Regular.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Regular.woff') format('woff'),
@@ -280,7 +280,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Light.eot');
+    src: url('fonts\TTLakesCondensed-Light.eot');
     src: local('TT Lakes Condensed Light'), local('TTLakesCondensed-Light'),
         url('fonts\TTLakesCondensed-Light.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Light.woff') format('woff'),
@@ -291,7 +291,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Bold.eot');
+    src: url('fonts\TTLakes-Bold.eot');
     src: local('TT Lakes Bold'), local('TTLakes-Bold'),
         url('fonts\TTLakes-Bold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Bold.woff') format('woff'),
@@ -302,7 +302,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-DemiBold.eot');
+    src: url('fonts\TTLakes-DemiBold.eot');
     src: local('TT Lakes DemiBold'), local('TTLakes-DemiBold'),
         url('fonts\TTLakes-DemiBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-DemiBold.woff') format('woff'),
@@ -313,7 +313,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Thin.eot');
+    src: url('fonts\TTLakesCompressed-Thin.eot');
     src: local('TT Lakes Compressed Thin'), local('TTLakesCompressed-Thin'),
         url('fonts\TTLakesCompressed-Thin.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Thin.woff') format('woff'),
@@ -324,7 +324,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Black.eot');
+    src: url('fonts\TTLakes-Black.eot');
     src: local('TT Lakes Black'), local('TTLakes-Black'),
         url('fonts\TTLakes-Black.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Black.woff') format('woff'),
@@ -335,7 +335,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-MediumItalic.eot');
+    src: url('fonts\TTLakes-MediumItalic.eot');
     src: local('TT Lakes Medium Italic'), local('TTLakes-MediumItalic'),
         url('fonts\TTLakes-MediumItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-MediumItalic.woff') format('woff'),
@@ -346,7 +346,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-ExtraBold.eot');
+    src: url('fonts\TTLakesCondensed-ExtraBold.eot');
     src: local('TT Lakes Condensed ExtraBold'), local('TTLakesCondensed-ExtraBold'),
         url('fonts\TTLakesCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-ExtraBold.woff') format('woff'),
@@ -357,7 +357,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-ExtraLightItalic.eot');
+    src: url('fonts\TTLakesCondensed-ExtraLightItalic.eot');
     src: local('TT Lakes Condensed ExtraLight Italic'), local('TTLakesCondensed-ExtraLightItalic'),
         url('fonts\TTLakesCondensed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-ExtraLightItalic.woff') format('woff'),
@@ -368,7 +368,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Medium.eot');
+    src: url('fonts\TTLakes-Medium.eot');
     src: local('TT Lakes Medium'), local('TTLakes-Medium'),
         url('fonts\TTLakes-Medium.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Medium.woff') format('woff'),
@@ -379,7 +379,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-DemiBoldItalic.eot');
+    src: url('fonts\TTLakesCondensed-DemiBoldItalic.eot');
     src: local('TT Lakes Condensed DemiBold Italic'), local('TTLakesCondensed-DemiBoldItalic'),
         url('fonts\TTLakesCondensed-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-DemiBoldItalic.woff') format('woff'),
@@ -390,7 +390,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-BoldItalic.eot');
+    src: url('fonts\TTLakesCompressed-BoldItalic.eot');
     src: local('TT Lakes Compressed Bold Italic'), local('TTLakesCompressed-BoldItalic'),
         url('fonts\TTLakesCompressed-BoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-BoldItalic.woff') format('woff'),
@@ -401,7 +401,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-ExtraLightItalic.eot');
+    src: url('fonts\TTLakesCompressed-ExtraLightItalic.eot');
     src: local('TT Lakes Compressed ExtraLight Italic'), local('TTLakesCompressed-ExtraLightItalic'),
         url('fonts\TTLakesCompressed-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-ExtraLightItalic.woff') format('woff'),
@@ -412,7 +412,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Regular.eot');
+    src: url('fonts\TTLakes-Regular.eot');
     src: local('TT Lakes Regular'), local('TTLakes-Regular'),
         url('fonts\TTLakes-Regular.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Regular.woff') format('woff'),
@@ -423,7 +423,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-BoldItalic.eot');
+    src: url('fonts\TTLakes-BoldItalic.eot');
     src: local('TT Lakes Bold Italic'), local('TTLakes-BoldItalic'),
         url('fonts\TTLakes-BoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-BoldItalic.woff') format('woff'),
@@ -434,7 +434,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-MediumItalic.eot');
+    src: url('fonts\TTLakesCondensed-MediumItalic.eot');
     src: local('TT Lakes Condensed Medium Italic'), local('TTLakesCondensed-MediumItalic'),
         url('fonts\TTLakesCondensed-MediumItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-MediumItalic.woff') format('woff'),
@@ -445,7 +445,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-Italic.eot');
+    src: url('fonts\TTLakesCondensed-Italic.eot');
     src: local('TT Lakes Condensed Italic'), local('TTLakesCondensed-Italic'),
         url('fonts\TTLakesCondensed-Italic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-Italic.woff') format('woff'),
@@ -456,7 +456,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-ThinItalic.eot');
+    src: url('fonts\TTLakes-ThinItalic.eot');
     src: local('TT Lakes Thin Italic'), local('TTLakes-ThinItalic'),
         url('fonts\TTLakes-ThinItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-ThinItalic.woff') format('woff'),
@@ -467,7 +467,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-DemiBold.eot');
+    src: url('fonts\TTLakesCompressed-DemiBold.eot');
     src: local('TT Lakes Compressed DemiBold'), local('TTLakesCompressed-DemiBold'),
         url('fonts\TTLakesCompressed-DemiBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-DemiBold.woff') format('woff'),
@@ -478,7 +478,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-BlackItalic.eot');
+    src: url('fonts\TTLakes-BlackItalic.eot');
     src: local('TT Lakes Black Italic'), local('TTLakes-BlackItalic'),
         url('fonts\TTLakes-BlackItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-BlackItalic.woff') format('woff'),
@@ -489,7 +489,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Bold.eot');
+    src: url('fonts\TTLakesCompressed-Bold.eot');
     src: local('TT Lakes Compressed Bold'), local('TTLakesCompressed-Bold'),
         url('fonts\TTLakesCompressed-Bold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Bold.woff') format('woff'),
@@ -500,7 +500,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-BlackItalic.eot');
+    src: url('fonts\TTLakesCondensed-BlackItalic.eot');
     src: local('TT Lakes Condensed Black Italic'), local('TTLakesCondensed-BlackItalic'),
         url('fonts\TTLakesCondensed-BlackItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-BlackItalic.woff') format('woff'),
@@ -511,7 +511,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-MediumItalic.eot');
+    src: url('fonts\TTLakesCompressed-MediumItalic.eot');
     src: local('TT Lakes Compressed Medium Italic'), local('TTLakesCompressed-MediumItalic'),
         url('fonts\TTLakesCompressed-MediumItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-MediumItalic.woff') format('woff'),
@@ -522,7 +522,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Condensed';
-    src: url('TTLakesCondensed-BoldItalic.eot');
+    src: url('fonts\TTLakesCondensed-BoldItalic.eot');
     src: local('TT Lakes Condensed Bold Italic'), local('TTLakesCondensed-BoldItalic'),
         url('fonts\TTLakesCondensed-BoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCondensed-BoldItalic.woff') format('woff'),
@@ -533,7 +533,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-ExtraLight.eot');
+    src: url('fonts\TTLakesCompressed-ExtraLight.eot');
     src: local('TT Lakes Compressed ExtraLight'), local('TTLakesCompressed-ExtraLight'),
         url('fonts\TTLakesCompressed-ExtraLight.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-ExtraLight.woff') format('woff'),
@@ -544,7 +544,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-ExtraBold.eot');
+    src: url('fonts\TTLakes-ExtraBold.eot');
     src: local('TT Lakes ExtraBold'), local('TTLakes-ExtraBold'),
         url('fonts\TTLakes-ExtraBold.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-ExtraBold.woff') format('woff'),
@@ -555,7 +555,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-DemiBoldItalic.eot');
+    src: url('fonts\TTLakesCompressed-DemiBoldItalic.eot');
     src: local('TT Lakes Compressed DemiBold Italic'), local('TTLakesCompressed-DemiBoldItalic'),
         url('fonts\TTLakesCompressed-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-DemiBoldItalic.woff') format('woff'),
@@ -566,7 +566,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-BlackItalic.eot');
+    src: url('fonts\TTLakesCompressed-BlackItalic.eot');
     src: local('TT Lakes Compressed Black Italic'), local('TTLakesCompressed-BlackItalic'),
         url('fonts\TTLakesCompressed-BlackItalic.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-BlackItalic.woff') format('woff'),
@@ -577,7 +577,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes';
-    src: url('TTLakes-Light.eot');
+    src: url('fonts\TTLakes-Light.eot');
     src: local('TT Lakes Light'), local('TTLakes-Light'),
         url('fonts\TTLakes-Light.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakes-Light.woff') format('woff'),
@@ -588,7 +588,7 @@ body {
 
 @font-face {
     font-family: 'TT Lakes Compressed';
-    src: url('TTLakesCompressed-Black.eot');
+    src: url('fonts\TTLakesCompressed-Black.eot');
     src: local('TT Lakes Compressed Black'), local('TTLakesCompressed-Black'),
         url('fonts\TTLakesCompressed-Black.eot?#iefix') format('embedded-opentype'),
         url('fonts\TTLakesCompressed-Black.woff') format('woff'),
